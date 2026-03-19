@@ -1,4 +1,4 @@
-# Frontend Slides
+# Frontend Slides:
 
 A Claude Code skill for creating stunning, animation-rich HTML presentations — from scratch or by converting PowerPoint files.
 
